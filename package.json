@@ -1,5 +1,5 @@
 {
-  "name": "@lichtblick/eslint-plugin",
+  "name": "joao-lint",
   "version": "1.0.2",
   "description": "Lichtblick ESLint rules and configuration",
   "license": "MIT",
